@@ -24,6 +24,13 @@ Key features:
     ```bash
     curl -L https://risczero.com/install | bash && rzup install
     ```
+ ## Installation
+
+```bash
+git clone https://github.com/Layer-Edge/light-node.git
+cd light-node
+npm install
+npm run start
 
 ### Build Instructions
 
